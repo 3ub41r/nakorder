@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin|Sniglet&display=swap');
+body {
+    background-color: #FFD650;
+    color: #99472D;
+    font-family: 'Cabin', cursive;
+}
+.heavy {
+    font-family: 'Sniglet', cursive;
+}
+ol.how-to li {
+    line-height: 2rem;
+}
